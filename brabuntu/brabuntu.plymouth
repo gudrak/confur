@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=brabuntu
+Description=A theme that features the brabuntu logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/brabuntu
+ScriptFile=/usr/share/plymouth/themes/brabuntu/brabuntu.script
